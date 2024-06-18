@@ -50,7 +50,7 @@ docker compose build
 docker compose up
 ```
 
-### Running withoud docker
+### Running without docker
 ```bash
 ./bin/dev
 ```
