@@ -7,7 +7,7 @@ This is an example app using [TailwindCSS](https://tailwindcss.com/). It was bui
 4. It's configured to use Turbo by default
 
 # Extra configuration
-You don't need to do any of this, I'm just showing the steps required to fully configure with Tailwind.
+You don't need to do any of this, I'm just showing the steps required to fully configure this project with Tailwind.
 
 ### Add extra lib using yarn
 ```bash
